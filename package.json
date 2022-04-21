@@ -1,6 +1,6 @@
 {
   "name": "nkdjs",
-  "version": "0.8.9",
+  "version": "0.8.10",
   "description": "A collection of utility libraries used by other NKDuy JS projects",
   "main": "index.js",
   "repository": "https://github.com/khanhduy1407/nkdjs",
